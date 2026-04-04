@@ -1,4 +1,4 @@
-# 💻 Kunj Desai — Portfolio Website
+# 💻 Rakesh G — Portfolio Website
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
@@ -39,10 +39,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/rocky-g7/Personal-Portfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd Personal-Portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -59,8 +59,8 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [rajmax7019@gmail.com](mailto:rajmax7019@gmail.com)
+* 💼 **LinkedIn:** [www.linkedin.com/in/rakesh-g-674362323](https://www.linkedin.com/in/rakesh-g-674362323/)
 
 ---
 
