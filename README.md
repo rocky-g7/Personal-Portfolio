@@ -7,8 +7,8 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🖼️ **Screenshots**
 ![Screenshot 1](images/ss33.png)
 ![Screenshot 2](images/ss22.png)
-![Screenshot 3]([images/ss11.png](https://github.com/rocky-g7/Personal-Portfolio/blob/05e455633d9bb65fef2db785ded0875510c7d979/image/ss11.png))
-https://github.com/rocky-g7/Personal-Portfolio/blob/05e455633d9bb65fef2db785ded0875510c7d979/image/ss11.png
+![Screenshot 3](https://github.com/rocky-g7/Personal-Portfolio/blob/05e455633d9bb65fef2db785ded0875510c7d979/image/ss11.png)
+
 ## 🚀 Features
 
 * 🎨 **Modern UI/UX** with black-based aesthetic theme
