@@ -5,10 +5,9 @@ It showcases my work, projects, skills, and journey as a developer passionate ab
 🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
 
 🖼️ **Screenshots**
-<img src="images/ss33.png" width="600"/>
-<img src="images/ss22.png" width="600"/>
-<img src="images/ss11.png" width="600"/>
----
+![Screenshot 1](images/ss33.png)
+![Screenshot 2](images/ss22.png)
+![Screenshot 3](images/ss11.png)
 
 ## 🚀 Features
 
