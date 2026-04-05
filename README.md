@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[[Rocky-Portfolio]]](https://kunj-desai.vercel.app/)
+🌐 **Website:** [Rocky-Portfolio](https://personal-portfolio-nine-smoky-22.vercel.app/)
 
 🖼️ **Screenshots**
 ![Screenshot 1](https://github.com/rocky-g7/Personal-Portfolio/blob/dbc0d89bedde222ae62a9fa7e84b6c29e1a460a5/image/ss33.png)
